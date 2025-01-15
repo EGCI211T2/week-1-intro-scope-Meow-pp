@@ -4,7 +4,6 @@
 void useLocal();
 void useStaticLocal();
 void useGlobal();
-
 int x=1;  //global -->1
 
 int main(int argc, char **agrv)
